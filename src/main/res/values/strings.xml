@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="bill_amount_textview">Enter bill amount: </string>
+    <string name="select_tip_textview">Select Tip</string>
+    <string name="tip_textview">Tip:</string>
+    <string name="total_textview">Total:</string>
+    <string name="hint">123.45:</string>
+    <string name="custom_radio_bt">Custom</string>
+    <string name="tip_amount_textview">Tip Percent:</string>
+    <string name="round_up_textview">Round Up Total</string>
+</resources>
